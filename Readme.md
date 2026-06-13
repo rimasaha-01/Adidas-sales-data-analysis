@@ -1,4 +1,4 @@
-# Adidas United States Sales Data Analysis 
+# Adidas U.S. Sales Data Analysis (Dashboard Creation)
 In this project, i am trying to analyze Adidas U.S. sales data using Power BI and generate meaningful insights on sales performance across products, regions, and time. The project aims to identify key trends, improve decision-making, and highlight growth opportunities through interactive dashboards.
 
 # Software Used
