@@ -8,10 +8,10 @@ Microsoft Power BI
 1. Data import
 2. Data cleaning and transformation
 3. Data modeling
-4. created KPI measures
+4. Created KPI measures
 5. Built visualizations & added interactive filters
 6. Dashboard design
-7. Generated insights
+7. Generated insights (Report file)
 
 # Overview Page
 <img width="944" height="531" alt="image" src="https://github.com/user-attachments/assets/515fa9f1-ad1d-4afc-a713-ef61a9ada930" />
